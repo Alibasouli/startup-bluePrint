@@ -5,7 +5,7 @@
 - **Student**: [ALi Basouli](https://github.com/Alibasouli)
 - **Professor**: [Arioo Barzan](https://github.com/arioobarzan)
 
-## Main Idea `in a nutshell`
+## Main Idea `in nutshell`
 + A planning app `specially` made for `attorneys`
   * **Status**: *ongoing*
   * **Features**: Comprehensive case management, calendar integration, secure client communication
