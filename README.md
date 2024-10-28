@@ -2,7 +2,7 @@
 
 ## Startup Idea and Blueprint
 
-- **Student**: [ALi Basouli](https://github.com/Alibasouli)
+- **Student**: [Ali Basouli](https://github.com/Alibasouli)
 - **Professor**: [Arioo Barzan](https://github.com/arioobarzan)
 
 ## Main Idea `in nutshell`
