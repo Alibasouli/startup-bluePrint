@@ -16,3 +16,6 @@
 - Enhance managing meeting and court sessions.
 - Provide a secure platform for client-attorney interactions.
 - Friendly UI and enhance User experiance.
+
+## Business model canva
+![business-model-canvas](business-model-canvas.jpg)
