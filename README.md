@@ -9,7 +9,7 @@
 + A planning app `specially` made for `attorneys`
   * **Status**: *ongoing*
   * **Features**: Comprehensive case management, calendar integration, secure client communication
-  * **Technologies**: Implimented in 'Flutter'-'Dart'
+  * **Technologies**: Implimented in ``Flutter``-``Dart``
 
 ## Project Goals
 - Enhance efficiency for attorneys in managing their cases.
